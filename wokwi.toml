@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+# Replace "YourProjectName" with the actual name of your .elf file inside the build/Debug folder
+firmware = "build/Debug/EmbeddedProject.elf"
+elf = "build/Debug/EmbeddedProject.elf"
+serialServer = 1
